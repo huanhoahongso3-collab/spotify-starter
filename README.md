@@ -1,4 +1,4 @@
-# dhp.thl.tpl.vkn.spotify
+# Spotify Launcher
 
 An Android application designed to bridge web wrappers (like [SpotiDuck](https://github.com/23fpsz/SpotiDuck-Releases) or browser wrappers) with the official Spotify Android app (`com.spotify.music`).
 
