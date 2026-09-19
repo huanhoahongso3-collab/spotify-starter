@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="shortcut_launch"
+        android:enabled="true"
+        android:icon="@drawable/ic_play"
+        android:shortcutShortLabel="@string/shortcut_launch_short"
+        android:shortcutLongLabel="@string/shortcut_launch_label">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="dhp.thl.tpl.vkn.spotify"
+            android:targetClass="dhp.thl.tpl.vkn.spotify.MainActivity">
+            <extra android:name="extra_auto_launch" android:value="true" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="shortcut_settings"
+        android:enabled="true"
+        android:icon="@drawable/ic_settings"
+        android:shortcutShortLabel="@string/shortcut_settings_short"
+        android:shortcutLongLabel="@string/shortcut_settings_label">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="dhp.thl.tpl.vkn.spotify"
+            android:targetClass="dhp.thl.tpl.vkn.spotify.SettingsActivity" />
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+</shortcuts>

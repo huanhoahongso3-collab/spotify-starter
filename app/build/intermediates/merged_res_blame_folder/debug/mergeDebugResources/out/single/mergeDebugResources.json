@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/layout_activity_settings.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/drawable_ic_play.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/drawable_bg_card.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/drawable/bg_card.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/drawable_ic_spotify.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/drawable/ic_spotify.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/xml_locales_config.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/xml/locales_config.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/drawable_ic_close.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/drawable_ic_settings.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/drawable/ic_settings.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/layout_activity_main.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/layout_overlay_floating_widget.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/layout/overlay_floating_widget.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/xml_shortcuts.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-debug-40:/drawable_bg_pill_overlay.xml.flat",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/drawable/bg_pill_overlay.xml"
+    },
+    {
+        "merged": "dhp.thl.tpl.vkn.spotify.app-debug-40:/layout_activity_settings.xml.flat",
+        "source": "dhp.thl.tpl.vkn.spotify.app-main-42:/layout/activity_settings.xml"
+    }
+]

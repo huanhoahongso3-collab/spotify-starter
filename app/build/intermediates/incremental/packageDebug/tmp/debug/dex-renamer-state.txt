@@ -1,0 +1,13 @@
+#Sat Sep 19 16:28:31 ICT 2026
+base.0=/home/masterlegendpvp/spotify-starter/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
+base.1=/home/masterlegendpvp/spotify-starter/app/build/intermediates/dex/debug/mergeProjectDexDebug/0/classes.dex
+base.2=/home/masterlegendpvp/spotify-starter/app/build/intermediates/dex/debug/mergeProjectDexDebug/2/classes.dex
+base.3=/home/masterlegendpvp/spotify-starter/app/build/intermediates/dex/debug/mergeProjectDexDebug/3/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=2/classes.dex
+path.3=3/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex

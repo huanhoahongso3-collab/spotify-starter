@@ -1,0 +1,433 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:2:1-82:12
+MERGED from [androidx.databinding:viewbinding:8.4.0] /home/masterlegendpvp/.gradle/caches/transforms-4/ba5c4612b5f07da8b17b08f49a96db9d/transformed/viewbinding-8.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fa9883d07517157ac2d6c0b993ae6e09/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/masterlegendpvp/.gradle/caches/transforms-4/75fb6aadb7c3d5640540d12cdbdba2d9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/masterlegendpvp/.gradle/caches/transforms-4/426bbfb76d30208985e5168ec8baa859/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.preference:preference-ktx:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/d374d3434e58c288a4b076e8182e28ba/transformed/preference-ktx-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.preference:preference:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f3544c0a1231e56d50c295c0413813b6/transformed/preference-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/masterlegendpvp/.gradle/caches/transforms-4/e4a9af7be71c28299ad0e2a169267d52/transformed/appcompat-1.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/f33c81b992e416ded1cb6ea5d9574fca/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/beac63390988a5825b5fc1c8d54b4e98/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/masterlegendpvp/.gradle/caches/transforms-4/6125a5f36f755dafca7c2324928e1e5d/transformed/fragment-ktx-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] /home/masterlegendpvp/.gradle/caches/transforms-4/d96deb688272f7608a77028b1efbc943/transformed/fragment-1.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/masterlegendpvp/.gradle/caches/transforms-4/769c1ae7f6fc965e479b4daa16d6c908/transformed/activity-ktx-1.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity:1.8.0] /home/masterlegendpvp/.gradle/caches/transforms-4/6628ee58fffd1e21ba1bf633395da5c3/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/0c20a093efa2db4c881d1284ee1d3290/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/8cfbf630024366087822b17997ac5282/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/masterlegendpvp/.gradle/caches/transforms-4/c448066a1eacb54453003bd3999be308/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fffc857aafadd60ab497b0c572082445/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/f67dafad20cec536066ab4edc5947798/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/51e058a27c9df0bed029c56ee06ac87b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/39347d22563c9b60a8f9c623132beaba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3e409dc9e5328dc835c57031db7dc628/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/57a53894f15f4e769d8b9a3b92b9f22f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/8a0e5b287e3d72dafc433e2e2121d8bc/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fe75153ced49b5f250c70032b8c6e99f/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/5d33736ddc125f81985a8432c5ae82db/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/d612a86661f63c06614182d41c67f690/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/4c49bf0037f3be25b332773ae39c319e/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/69c08a52fe3455b965ffff49841b82f3/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/af8df5259a3f9ec492912aaede330412/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/e4b4b748efaa16ab46f70aab9b1e43d0/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/4e100635eeff0bb238a002c67f40fc55/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/68a4c49e4232c9317e0c5e43e4d5bd32/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/3965d25bd9ead274d1cafdbfe175dfac/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/fc91a62de85aa93a3716568b4e15f0c1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/49c774e9d153ba092304c82c5890e0c8/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/8d050bcdc44d11e993e49295a0c472ad/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/masterlegendpvp/.gradle/caches/transforms-4/db2174f125455cab3382c8bbbecfca42/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/107296dcd67ce7febd8a9f3ebeb92a16/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/9e11dfe885d67b7b385077bf7a444236/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3ceaa4732f004462913b9906b4b98c4b/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/2e1626a47ffd8d0596aa9097fdac7d3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/40822f605c6d5cb1676491aaa1b849fa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/21d60f81b42f7c61bbb8a77c8dd9d7d9/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/masterlegendpvp/.gradle/caches/transforms-4/2d599fd31ff03717abba479a07a39ea4/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/0d66a3e2a202b2276e662dae7171cd1f/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/6430c3563fd7d3dd4773dbbd61beaa97/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/55c33955f017a1ad5c110cd37376768d/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:4:22-75
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_SPECIAL_USE
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:6:5-89
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:6:22-86
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:7:22-74
+queries
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:10:5-21:15
+package#com.spotify.music
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:11:9-53
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:11:18-50
+package#com.spotiduck.music
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:12:18-52
+package#com.fps23.spotiduck
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:13:9-55
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:13:18-52
+intent#action:name:android.intent.action.MAIN
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:14:9-16:18
+action#android.intent.action.MAIN
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:15:13-65
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:15:21-62
+intent#action:name:android.intent.action.VIEW+data:scheme:https
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:17:9-20:18
+action#android.intent.action.VIEW
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:18:13-65
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:18:21-62
+data
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:19:13-44
+	android:scheme
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:19:19-41
+application
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:23:5-80:19
+INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:23:5-80:19
+MERGED from [com.google.android.material:material:1.12.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fa9883d07517157ac2d6c0b993ae6e09/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fa9883d07517157ac2d6c0b993ae6e09/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/masterlegendpvp/.gradle/caches/transforms-4/75fb6aadb7c3d5640540d12cdbdba2d9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/masterlegendpvp/.gradle/caches/transforms-4/75fb6aadb7c3d5640540d12cdbdba2d9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/2e1626a47ffd8d0596aa9097fdac7d3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/2e1626a47ffd8d0596aa9097fdac7d3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/40822f605c6d5cb1676491aaa1b849fa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/40822f605c6d5cb1676491aaa1b849fa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml
+	android:localeConfig
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:27:9-51
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:26:9-41
+	android:roundIcon
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:28:9-54
+	android:icon
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:30:9-52
+activity#dhp.thl.tpl.vkn.spotify.MainActivity
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:33:9-48:20
+	android:excludeFromRecents
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:36:13-46
+	android:noHistory
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:37:13-37
+	android:exported
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:35:13-36
+	android:theme
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:38:13-68
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:34:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:39:13-42:29
+category#android.intent.category.LAUNCHER
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:41:17-77
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:41:27-74
+meta-data#android.app.shortcuts
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:45:13-47:53
+	android:resource
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:47:17-50
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:46:17-53
+activity#dhp.thl.tpl.vkn.spotify.SettingsActivity
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:51:9-61:20
+	android:label
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:54:13-51
+	android:exported
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:53:13-36
+	android:theme
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:55:13-56
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:52:13-45
+intent-filter#action:name:android.intent.action.APPLICATION_PREFERENCES+category:name:android.intent.category.DEFAULT
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:57:13-60:29
+action#android.intent.action.APPLICATION_PREFERENCES
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:58:17-88
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:58:25-85
+category#android.intent.category.DEFAULT
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:59:17-76
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:59:27-73
+service#dhp.thl.tpl.vkn.spotify.FloatingOverlayService
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:64:9-68:58
+	android:enabled
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:67:13-37
+	android:foregroundServiceType
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:68:13-55
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:65:13-51
+service#dhp.thl.tpl.vkn.spotify.MediaNotificationListener
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:71:9-78:19
+	android:exported
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:73:13-36
+	android:permission
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:74:13-87
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:72:13-54
+intent-filter#action:name:android.service.notification.NotificationListenerService
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:75:13-77:29
+action#android.service.notification.NotificationListenerService
+ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:76:17-99
+	android:name
+		ADDED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml:76:25-96
+uses-sdk
+INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml
+INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.4.0] /home/masterlegendpvp/.gradle/caches/transforms-4/ba5c4612b5f07da8b17b08f49a96db9d/transformed/viewbinding-8.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.4.0] /home/masterlegendpvp/.gradle/caches/transforms-4/ba5c4612b5f07da8b17b08f49a96db9d/transformed/viewbinding-8.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fa9883d07517157ac2d6c0b993ae6e09/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fa9883d07517157ac2d6c0b993ae6e09/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/masterlegendpvp/.gradle/caches/transforms-4/75fb6aadb7c3d5640540d12cdbdba2d9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /home/masterlegendpvp/.gradle/caches/transforms-4/75fb6aadb7c3d5640540d12cdbdba2d9/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/masterlegendpvp/.gradle/caches/transforms-4/426bbfb76d30208985e5168ec8baa859/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.7.0] /home/masterlegendpvp/.gradle/caches/transforms-4/426bbfb76d30208985e5168ec8baa859/transformed/appcompat-resources-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.preference:preference-ktx:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/d374d3434e58c288a4b076e8182e28ba/transformed/preference-ktx-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference-ktx:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/d374d3434e58c288a4b076e8182e28ba/transformed/preference-ktx-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f3544c0a1231e56d50c295c0413813b6/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f3544c0a1231e56d50c295c0413813b6/transformed/preference-1.2.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/masterlegendpvp/.gradle/caches/transforms-4/e4a9af7be71c28299ad0e2a169267d52/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat:1.7.0] /home/masterlegendpvp/.gradle/caches/transforms-4/e4a9af7be71c28299ad0e2a169267d52/transformed/appcompat-1.7.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/f33c81b992e416ded1cb6ea5d9574fca/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/f33c81b992e416ded1cb6ea5d9574fca/transformed/emoji2-views-helper-1.3.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/beac63390988a5825b5fc1c8d54b4e98/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/beac63390988a5825b5fc1c8d54b4e98/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/masterlegendpvp/.gradle/caches/transforms-4/6125a5f36f755dafca7c2324928e1e5d/transformed/fragment-ktx-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.3.6] /home/masterlegendpvp/.gradle/caches/transforms-4/6125a5f36f755dafca7c2324928e1e5d/transformed/fragment-ktx-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/masterlegendpvp/.gradle/caches/transforms-4/d96deb688272f7608a77028b1efbc943/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] /home/masterlegendpvp/.gradle/caches/transforms-4/d96deb688272f7608a77028b1efbc943/transformed/fragment-1.5.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/masterlegendpvp/.gradle/caches/transforms-4/769c1ae7f6fc965e479b4daa16d6c908/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.8.0] /home/masterlegendpvp/.gradle/caches/transforms-4/769c1ae7f6fc965e479b4daa16d6c908/transformed/activity-ktx-1.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/masterlegendpvp/.gradle/caches/transforms-4/6628ee58fffd1e21ba1bf633395da5c3/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /home/masterlegendpvp/.gradle/caches/transforms-4/6628ee58fffd1e21ba1bf633395da5c3/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/0c20a093efa2db4c881d1284ee1d3290/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/0c20a093efa2db4c881d1284ee1d3290/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/8cfbf630024366087822b17997ac5282/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/8cfbf630024366087822b17997ac5282/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/masterlegendpvp/.gradle/caches/transforms-4/c448066a1eacb54453003bd3999be308/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/masterlegendpvp/.gradle/caches/transforms-4/c448066a1eacb54453003bd3999be308/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fffc857aafadd60ab497b0c572082445/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fffc857aafadd60ab497b0c572082445/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/f67dafad20cec536066ab4edc5947798/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/f67dafad20cec536066ab4edc5947798/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/51e058a27c9df0bed029c56ee06ac87b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/51e058a27c9df0bed029c56ee06ac87b/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/39347d22563c9b60a8f9c623132beaba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/39347d22563c9b60a8f9c623132beaba/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3e409dc9e5328dc835c57031db7dc628/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3e409dc9e5328dc835c57031db7dc628/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/57a53894f15f4e769d8b9a3b92b9f22f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/57a53894f15f4e769d8b9a3b92b9f22f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/8a0e5b287e3d72dafc433e2e2121d8bc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/8a0e5b287e3d72dafc433e2e2121d8bc/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fe75153ced49b5f250c70032b8c6e99f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/fe75153ced49b5f250c70032b8c6e99f/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/5d33736ddc125f81985a8432c5ae82db/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/masterlegendpvp/.gradle/caches/transforms-4/5d33736ddc125f81985a8432c5ae82db/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/d612a86661f63c06614182d41c67f690/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/d612a86661f63c06614182d41c67f690/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/4c49bf0037f3be25b332773ae39c319e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /home/masterlegendpvp/.gradle/caches/transforms-4/4c49bf0037f3be25b332773ae39c319e/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/69c08a52fe3455b965ffff49841b82f3/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/69c08a52fe3455b965ffff49841b82f3/transformed/lifecycle-runtime-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/af8df5259a3f9ec492912aaede330412/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/af8df5259a3f9ec492912aaede330412/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/e4b4b748efaa16ab46f70aab9b1e43d0/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/e4b4b748efaa16ab46f70aab9b1e43d0/transformed/lifecycle-viewmodel-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/4e100635eeff0bb238a002c67f40fc55/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/4e100635eeff0bb238a002c67f40fc55/transformed/lifecycle-livedata-core-ktx-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/68a4c49e4232c9317e0c5e43e4d5bd32/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/68a4c49e4232c9317e0c5e43e4d5bd32/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/3965d25bd9ead274d1cafdbfe175dfac/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/3965d25bd9ead274d1cafdbfe175dfac/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/fc91a62de85aa93a3716568b4e15f0c1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/fc91a62de85aa93a3716568b4e15f0c1/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/49c774e9d153ba092304c82c5890e0c8/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/49c774e9d153ba092304c82c5890e0c8/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/8d050bcdc44d11e993e49295a0c472ad/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/8d050bcdc44d11e993e49295a0c472ad/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/masterlegendpvp/.gradle/caches/transforms-4/db2174f125455cab3382c8bbbecfca42/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /home/masterlegendpvp/.gradle/caches/transforms-4/db2174f125455cab3382c8bbbecfca42/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/107296dcd67ce7febd8a9f3ebeb92a16/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/107296dcd67ce7febd8a9f3ebeb92a16/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/9e11dfe885d67b7b385077bf7a444236/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/9e11dfe885d67b7b385077bf7a444236/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3ceaa4732f004462913b9906b4b98c4b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3ceaa4732f004462913b9906b4b98c4b/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/2e1626a47ffd8d0596aa9097fdac7d3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/2e1626a47ffd8d0596aa9097fdac7d3d/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/40822f605c6d5cb1676491aaa1b849fa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/40822f605c6d5cb1676491aaa1b849fa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/21d60f81b42f7c61bbb8a77c8dd9d7d9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/21d60f81b42f7c61bbb8a77c8dd9d7d9/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/masterlegendpvp/.gradle/caches/transforms-4/2d599fd31ff03717abba479a07a39ea4/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /home/masterlegendpvp/.gradle/caches/transforms-4/2d599fd31ff03717abba479a07a39ea4/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/0d66a3e2a202b2276e662dae7171cd1f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/0d66a3e2a202b2276e662dae7171cd1f/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/6430c3563fd7d3dd4773dbbd61beaa97/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/6430c3563fd7d3dd4773dbbd61beaa97/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/55c33955f017a1ad5c110cd37376768d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/55c33955f017a1ad5c110cd37376768d/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/masterlegendpvp/spotify-starter/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/40822f605c6d5cb1676491aaa1b849fa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /home/masterlegendpvp/.gradle/caches/transforms-4/40822f605c6d5cb1676491aaa1b849fa/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /home/masterlegendpvp/.gradle/caches/transforms-4/3807cafda56fb486a26ae5ed1283cc08/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/masterlegendpvp/.gradle/caches/transforms-4/b78a9a449686fa0c1d1b41c5ec27ddaa/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+permission#dhp.thl.tpl.vkn.spotify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+uses-permission#dhp.thl.tpl.vkn.spotify.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.1] /home/masterlegendpvp/.gradle/caches/transforms-4/750e88effd576b6402f4d79a68951e6e/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /home/masterlegendpvp/.gradle/caches/transforms-4/b288516447d1ee381de0e50282762b44/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /home/masterlegendpvp/.gradle/caches/transforms-4/f5b354805daa720650f78bf6e2ab8d7c/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

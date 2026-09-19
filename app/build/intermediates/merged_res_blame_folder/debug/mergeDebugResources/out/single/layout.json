@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-mergeDebugResources-39:/layout/overlay_floating_widget.xml",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/layout/overlay_floating_widget.xml"
+    },
+    {
+        "merged": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-mergeDebugResources-39:/layout/activity_settings.xml",
+        "source": "/home/masterlegendpvp/.gradle/daemon/8.6/dhp.thl.tpl.vkn.spotify.app-main-42:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "dhp.thl.tpl.vkn.spotify.app-mergeDebugResources-39:/layout/activity_settings.xml",
+        "source": "dhp.thl.tpl.vkn.spotify.app-main-42:/layout/activity_settings.xml"
+    }
+]
