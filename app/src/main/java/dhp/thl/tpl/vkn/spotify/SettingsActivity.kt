@@ -46,6 +46,8 @@ class SettingsActivity : AppCompatActivity() {
     private fun loadSettings() {
         binding.etWrapperPackage.setText(preferences.webWrapperPackage)
         binding.etSpotifyPackage.setText(preferences.spotifyPackage)
+        binding.switchShowToasts.isChecked = preferences.showToasts
+        binding.switchExcludeRecents.isChecked = preferences.excludeFromRecents
         updateLanguageButtonLabel()
 
         if (!preferences.isSetupCompleted) {
@@ -117,6 +119,11 @@ class SettingsActivity : AppCompatActivity() {
             preferences.showToasts = isChecked
         }
 
+        binding.switchExcludeRecents.isChecked = preferences.excludeFromRecents
+        binding.switchExcludeRecents.setOnCheckedChangeListener { _, isChecked ->
+            preferences.excludeFromRecents = isChecked
+        }
+
         binding.btnSelectLanguage.setOnClickListener {
             showLanguageDialog()
         }
@@ -137,6 +144,8 @@ class SettingsActivity : AppCompatActivity() {
 
             preferences.webWrapperPackage = wrapperPkg
             preferences.spotifyPackage = spotifyPkg
+            preferences.showToasts = binding.switchShowToasts.isChecked
+            preferences.excludeFromRecents = binding.switchExcludeRecents.isChecked
             preferences.isSetupCompleted = true
 
             Toast.makeText(

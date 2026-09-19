@@ -77,6 +77,9 @@
     <string name="pref_show_toasts_title">Show Toast Notifications</string>
     <string name="pref_show_toasts_desc">Display brief on-screen messages (e.g. "Pick your song…", "Opening Spotify…").</string>
 
+    <string name="pref_exclude_recents_title">Exclude from Recents</string>
+    <string name="pref_exclude_recents_desc">Exclude the web wrapper from the recent apps overview.</string>
+
     <string name="pref_language_title">Display Language</string>
     <string name="pref_language_desc">Choose your preferred language for the app.</string>
     <string name="lang_system_default">System Default</string>

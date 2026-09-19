@@ -113,6 +113,9 @@ class MainActivity : AppCompatActivity() {
         // 3. Launch Web Wrapper (e.g. SpotiDuck or fallback to web browser)
         if (launchIntent != null) {
             launchIntent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+            if (preferences.excludeFromRecents) {
+                launchIntent.addFlags(Intent.FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS)
+            }
             startActivity(launchIntent)
         } else {
             if (preferences.showToasts) Toast.makeText(
@@ -122,6 +125,9 @@ class MainActivity : AppCompatActivity() {
             ).show()
             val browserIntent = Intent(Intent.ACTION_VIEW, Uri.parse("https://open.spotify.com")).apply {
                 addFlags(Intent.FLAG_ACTIVITY_NEW_TASK)
+                if (preferences.excludeFromRecents) {
+                    addFlags(Intent.FLAG_ACTIVITY_EXCLUDE_FROM_RECENTS)
+                }
             }
             try {
                 startActivity(browserIntent)

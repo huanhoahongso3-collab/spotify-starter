@@ -77,6 +77,9 @@
     <string name="pref_show_toasts_title">Hiển thị thông báo Toast</string>
     <string name="pref_show_toasts_desc">Hiện thông báo ngắn trên màn hình (ví dụ: "Hãy chọn bài hát…", "Đang mở Spotify…").</string>
 
+    <string name="pref_exclude_recents_title">Loại trừ khỏi ứng dụng gần đây</string>
+    <string name="pref_exclude_recents_desc">Ẩn web wrapper khỏi danh sách các ứng dụng gần đây.</string>
+
     <string name="pref_language_title">Ngôn ngữ hiển thị</string>
     <string name="pref_language_desc">Chọn ngôn ngữ hiển thị cho ứng dụng.</string>
     <string name="lang_system_default">Mặc định hệ thống</string>

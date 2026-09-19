@@ -24,6 +24,10 @@ class AppPreferences(context: Context) {
         get() = prefs.getBoolean(KEY_SHOW_TOASTS, true)
         set(value) = prefs.edit().putBoolean(KEY_SHOW_TOASTS, value).apply()
 
+    var excludeFromRecents: Boolean
+        get() = prefs.getBoolean(KEY_EXCLUDE_FROM_RECENTS, false)
+        set(value) = prefs.edit().putBoolean(KEY_EXCLUDE_FROM_RECENTS, value).apply()
+
     var appLanguage: String
         get() = prefs.getString(KEY_APP_LANGUAGE, "") ?: ""
         set(value) = prefs.edit().putString(KEY_APP_LANGUAGE, value).apply()
@@ -35,6 +39,7 @@ class AppPreferences(context: Context) {
         private const val KEY_SPOTIFY_PACKAGE = "key_spotify_package"
         private const val KEY_APP_LANGUAGE = "key_app_language"
         private const val KEY_SHOW_TOASTS = "key_show_toasts"
+        private const val KEY_EXCLUDE_FROM_RECENTS = "key_exclude_from_recents"
 
         const val DEFAULT_WRAPPER_PACKAGE = "com.spotiduck.music"
         const val DEFAULT_SPOTIFY_PACKAGE = "com.spotify.music"
